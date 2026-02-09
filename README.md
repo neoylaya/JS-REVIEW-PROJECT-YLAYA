@@ -1,2 +1,2 @@
-# Javascript Review Project by YLAYA JOSH NEO
-This project is a review of Javascript concepts, from beginner to advanced.
+# Javascript Review Project by JOSH NEO A. YLAYA
+This project is a review of Javascript concepts, from beginner to advanced.git
