@@ -1,1 +1,0 @@
-# Javascript Review Project by YLAYA JOSH NEO
